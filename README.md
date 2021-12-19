@@ -1,4 +1,4 @@
-- Hi, I’m @levirybalov.
+- Hi, I’m Levi Rybalov.
 - I’m interested in hiking, cooking, and sustainibility.
 - I’m currently interested in game-theoretic aspects of network growth.
 - I’m looking to collaborate on projects geared towards sustainibility.
